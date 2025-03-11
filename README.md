@@ -18,3 +18,6 @@ CreditScore - actual credit score (Target variable, Numeric)
 Technologies Used
 Python (Data Processing and Machine Learning)
 Pandas and NumPy (Data Manipulation) Scikit-Learn (Machine Learning Model and Feature Scaling) Matplotlib and Seaborn (Data Visualization)
+License
+This project is open-source under the MIT License.
+
